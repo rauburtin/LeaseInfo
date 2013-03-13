@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# default for apache2 is /usr/lib/cgi-bin
 
 def parse(fileName):
 
