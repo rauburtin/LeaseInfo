@@ -1,0 +1,3165 @@
+# The format of this file is documented in the dhcpd.leases(5) manual page.
+# This lease file was written by isc-dhcp-4.2.4
+
+lease 192.168.76.152 {
+  starts 3 2013/03/13 16:06:21;
+  ends 3 2013/03/13 16:07:58;
+  tstp 3 2013/03/13 16:07:58;
+  cltt 3 2013/03/13 16:06:21;
+  binding state free;
+  hardware ethernet b8:27:eb:f1:53:c3;
+}
+lease 192.168.76.114 {
+  starts 3 2013/03/13 16:13:31;
+  ends 3 2013/03/13 16:23:31;
+  tstp 3 2013/03/13 16:23:31;
+  cltt 3 2013/03/13 16:13:31;
+  binding state free;
+  hardware ethernet b8:27:eb:55:4a:84;
+  uid "xbmc-4a84";
+}
+lease 192.168.76.151 {
+  starts 3 2013/03/13 17:08:31;
+  ends 3 2013/03/13 17:18:31;
+  tstp 3 2013/03/13 17:18:31;
+  cltt 3 2013/03/13 17:08:31;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:50:56:31:2b:d5;
+  uid "\001\000PV1+\325";
+  client-hostname "VMX-INS";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 17:09:02;
+  ends 3 2013/03/13 17:19:02;
+  tstp 3 2013/03/13 17:19:02;
+  cltt 3 2013/03/13 17:09:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 17:09:02;
+  ends 3 2013/03/13 17:19:02;
+  tstp 3 2013/03/13 17:19:02;
+  cltt 3 2013/03/13 17:09:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 17:09:02;
+  ends 3 2013/03/13 17:19:02;
+  tstp 3 2013/03/13 17:19:02;
+  cltt 3 2013/03/13 17:09:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 17:09:02;
+  ends 3 2013/03/13 17:19:02;
+  tstp 3 2013/03/13 17:19:02;
+  cltt 3 2013/03/13 17:09:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 17:09:02;
+  ends 3 2013/03/13 17:19:02;
+  tstp 3 2013/03/13 17:19:02;
+  cltt 3 2013/03/13 17:09:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 17:09:02;
+  ends 3 2013/03/13 17:19:02;
+  tstp 3 2013/03/13 17:19:02;
+  cltt 3 2013/03/13 17:09:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 17:09:02;
+  ends 3 2013/03/13 17:19:02;
+  tstp 3 2013/03/13 17:19:02;
+  cltt 3 2013/03/13 17:09:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 17:09:02;
+  ends 3 2013/03/13 17:19:02;
+  tstp 3 2013/03/13 17:19:02;
+  cltt 3 2013/03/13 17:09:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 17:09:03;
+  ends 3 2013/03/13 17:19:03;
+  tstp 3 2013/03/13 17:19:03;
+  cltt 3 2013/03/13 17:09:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 17:09:03;
+  ends 3 2013/03/13 17:19:03;
+  tstp 3 2013/03/13 17:19:03;
+  cltt 3 2013/03/13 17:09:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.100 {
+  starts 3 2013/03/13 16:21:17;
+  ends 3 2013/03/13 18:21:17;
+  tstp 3 2013/03/13 18:21:17;
+  cltt 3 2013/03/13 16:21:17;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 40:a6:d9:db:b0:29;
+  uid "\001@\246\331\333\260)";
+  client-hostname "Vickys-iPhone";
+}
+server-duid "\000\001\000\001\030\323Y\366\000\025]L\012\022";
+
+lease 192.168.76.151 {
+  starts 3 2013/03/13 17:13:31;
+  ends 3 2013/03/13 17:23:31;
+  cltt 3 2013/03/13 17:13:31;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:50:56:31:2b:d5;
+  uid "\001\000PV1+\325";
+  client-hostname "VMX-INS";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 17:14:02;
+  ends 3 2013/03/13 17:24:02;
+  cltt 3 2013/03/13 17:14:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 17:14:02;
+  ends 3 2013/03/13 17:24:02;
+  cltt 3 2013/03/13 17:14:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 17:14:02;
+  ends 3 2013/03/13 17:24:02;
+  cltt 3 2013/03/13 17:14:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 17:14:02;
+  ends 3 2013/03/13 17:24:02;
+  cltt 3 2013/03/13 17:14:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 17:14:02;
+  ends 3 2013/03/13 17:24:02;
+  cltt 3 2013/03/13 17:14:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 17:14:02;
+  ends 3 2013/03/13 17:24:02;
+  cltt 3 2013/03/13 17:14:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 17:14:03;
+  ends 3 2013/03/13 17:24:03;
+  cltt 3 2013/03/13 17:14:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 17:14:03;
+  ends 3 2013/03/13 17:24:03;
+  cltt 3 2013/03/13 17:14:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 17:14:03;
+  ends 3 2013/03/13 17:24:03;
+  cltt 3 2013/03/13 17:14:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 17:14:03;
+  ends 3 2013/03/13 17:24:03;
+  cltt 3 2013/03/13 17:14:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 17:16:04;
+  ends 3 2013/03/13 17:26:04;
+  cltt 3 2013/03/13 17:16:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.151 {
+  starts 3 2013/03/13 17:18:31;
+  ends 3 2013/03/13 17:28:31;
+  cltt 3 2013/03/13 17:18:31;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:50:56:31:2b:d5;
+  uid "\001\000PV1+\325";
+  client-hostname "VMX-INS";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 17:19:02;
+  ends 3 2013/03/13 17:29:02;
+  cltt 3 2013/03/13 17:19:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 17:19:02;
+  ends 3 2013/03/13 17:29:02;
+  cltt 3 2013/03/13 17:19:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 17:19:02;
+  ends 3 2013/03/13 17:29:02;
+  cltt 3 2013/03/13 17:19:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 17:19:02;
+  ends 3 2013/03/13 17:29:02;
+  cltt 3 2013/03/13 17:19:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 17:19:02;
+  ends 3 2013/03/13 17:29:02;
+  cltt 3 2013/03/13 17:19:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 17:19:03;
+  ends 3 2013/03/13 17:29:03;
+  cltt 3 2013/03/13 17:19:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 17:19:03;
+  ends 3 2013/03/13 17:29:03;
+  cltt 3 2013/03/13 17:19:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 17:19:03;
+  ends 3 2013/03/13 17:29:03;
+  cltt 3 2013/03/13 17:19:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 17:19:03;
+  ends 3 2013/03/13 17:29:03;
+  cltt 3 2013/03/13 17:19:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 17:19:03;
+  ends 3 2013/03/13 17:29:03;
+  cltt 3 2013/03/13 17:19:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 17:21:05;
+  ends 3 2013/03/13 17:31:05;
+  cltt 3 2013/03/13 17:21:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.151 {
+  starts 3 2013/03/13 17:23:31;
+  ends 3 2013/03/13 17:33:31;
+  cltt 3 2013/03/13 17:23:31;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:50:56:31:2b:d5;
+  uid "\001\000PV1+\325";
+  client-hostname "VMX-INS";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 17:24:02;
+  ends 3 2013/03/13 17:34:02;
+  cltt 3 2013/03/13 17:24:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 17:24:03;
+  ends 3 2013/03/13 17:34:03;
+  cltt 3 2013/03/13 17:24:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 17:24:03;
+  ends 3 2013/03/13 17:34:03;
+  cltt 3 2013/03/13 17:24:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 17:24:03;
+  ends 3 2013/03/13 17:34:03;
+  cltt 3 2013/03/13 17:24:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 17:24:03;
+  ends 3 2013/03/13 17:34:03;
+  cltt 3 2013/03/13 17:24:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 17:24:03;
+  ends 3 2013/03/13 17:34:03;
+  cltt 3 2013/03/13 17:24:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 17:24:03;
+  ends 3 2013/03/13 17:34:03;
+  cltt 3 2013/03/13 17:24:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 17:24:03;
+  ends 3 2013/03/13 17:34:03;
+  cltt 3 2013/03/13 17:24:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 17:24:03;
+  ends 3 2013/03/13 17:34:03;
+  cltt 3 2013/03/13 17:24:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 17:24:03;
+  ends 3 2013/03/13 17:34:03;
+  cltt 3 2013/03/13 17:24:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 17:26:05;
+  ends 3 2013/03/13 17:36:05;
+  cltt 3 2013/03/13 17:26:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.151 {
+  starts 3 2013/03/13 17:28:32;
+  ends 3 2013/03/13 17:38:32;
+  cltt 3 2013/03/13 17:28:32;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:50:56:31:2b:d5;
+  uid "\001\000PV1+\325";
+  client-hostname "VMX-INS";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 17:29:03;
+  ends 3 2013/03/13 17:39:03;
+  cltt 3 2013/03/13 17:29:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 17:29:03;
+  ends 3 2013/03/13 17:39:03;
+  cltt 3 2013/03/13 17:29:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 17:29:03;
+  ends 3 2013/03/13 17:39:03;
+  cltt 3 2013/03/13 17:29:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 17:29:03;
+  ends 3 2013/03/13 17:39:03;
+  cltt 3 2013/03/13 17:29:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 17:29:03;
+  ends 3 2013/03/13 17:39:03;
+  cltt 3 2013/03/13 17:29:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 17:29:03;
+  ends 3 2013/03/13 17:39:03;
+  cltt 3 2013/03/13 17:29:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 17:29:03;
+  ends 3 2013/03/13 17:39:03;
+  cltt 3 2013/03/13 17:29:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 17:29:03;
+  ends 3 2013/03/13 17:39:03;
+  cltt 3 2013/03/13 17:29:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 17:29:03;
+  ends 3 2013/03/13 17:39:03;
+  cltt 3 2013/03/13 17:29:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 17:29:03;
+  ends 3 2013/03/13 17:39:03;
+  cltt 3 2013/03/13 17:29:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 17:31:05;
+  ends 3 2013/03/13 17:41:05;
+  cltt 3 2013/03/13 17:31:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.151 {
+  starts 3 2013/03/13 17:33:32;
+  ends 3 2013/03/13 17:43:32;
+  cltt 3 2013/03/13 17:33:32;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:50:56:31:2b:d5;
+  uid "\001\000PV1+\325";
+  client-hostname "VMX-INS";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 17:34:03;
+  ends 3 2013/03/13 17:44:03;
+  cltt 3 2013/03/13 17:34:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 17:34:03;
+  ends 3 2013/03/13 17:44:03;
+  cltt 3 2013/03/13 17:34:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 17:34:03;
+  ends 3 2013/03/13 17:44:03;
+  cltt 3 2013/03/13 17:34:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 17:34:03;
+  ends 3 2013/03/13 17:44:03;
+  cltt 3 2013/03/13 17:34:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 17:34:03;
+  ends 3 2013/03/13 17:44:03;
+  cltt 3 2013/03/13 17:34:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 17:34:03;
+  ends 3 2013/03/13 17:44:03;
+  cltt 3 2013/03/13 17:34:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 17:34:03;
+  ends 3 2013/03/13 17:44:03;
+  cltt 3 2013/03/13 17:34:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 17:34:03;
+  ends 3 2013/03/13 17:44:03;
+  cltt 3 2013/03/13 17:34:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 17:34:03;
+  ends 3 2013/03/13 17:44:03;
+  cltt 3 2013/03/13 17:34:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 17:34:03;
+  ends 3 2013/03/13 17:44:03;
+  cltt 3 2013/03/13 17:34:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 17:36:04;
+  ends 3 2013/03/13 17:46:04;
+  cltt 3 2013/03/13 17:36:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.151 {
+  starts 3 2013/03/13 17:38:32;
+  ends 3 2013/03/13 17:48:32;
+  cltt 3 2013/03/13 17:38:32;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:50:56:31:2b:d5;
+  uid "\001\000PV1+\325";
+  client-hostname "VMX-INS";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 17:39:03;
+  ends 3 2013/03/13 17:49:03;
+  cltt 3 2013/03/13 17:39:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 17:39:03;
+  ends 3 2013/03/13 17:49:03;
+  cltt 3 2013/03/13 17:39:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 17:39:03;
+  ends 3 2013/03/13 17:49:03;
+  cltt 3 2013/03/13 17:39:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 17:39:03;
+  ends 3 2013/03/13 17:49:03;
+  cltt 3 2013/03/13 17:39:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 17:39:03;
+  ends 3 2013/03/13 17:49:03;
+  cltt 3 2013/03/13 17:39:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 17:39:03;
+  ends 3 2013/03/13 17:49:03;
+  cltt 3 2013/03/13 17:39:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 17:39:03;
+  ends 3 2013/03/13 17:49:03;
+  cltt 3 2013/03/13 17:39:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 17:39:03;
+  ends 3 2013/03/13 17:49:03;
+  cltt 3 2013/03/13 17:39:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 17:39:03;
+  ends 3 2013/03/13 17:49:03;
+  cltt 3 2013/03/13 17:39:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 17:39:03;
+  ends 3 2013/03/13 17:49:03;
+  cltt 3 2013/03/13 17:39:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 17:41:05;
+  ends 3 2013/03/13 17:51:05;
+  cltt 3 2013/03/13 17:41:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.151 {
+  starts 3 2013/03/13 17:43:32;
+  ends 3 2013/03/13 17:53:32;
+  cltt 3 2013/03/13 17:43:32;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:50:56:31:2b:d5;
+  uid "\001\000PV1+\325";
+  client-hostname "VMX-INS";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 17:44:03;
+  ends 3 2013/03/13 17:54:03;
+  cltt 3 2013/03/13 17:44:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 17:44:03;
+  ends 3 2013/03/13 17:54:03;
+  cltt 3 2013/03/13 17:44:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 17:44:03;
+  ends 3 2013/03/13 17:54:03;
+  cltt 3 2013/03/13 17:44:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 17:44:04;
+  ends 3 2013/03/13 17:54:04;
+  cltt 3 2013/03/13 17:44:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 17:44:04;
+  ends 3 2013/03/13 17:54:04;
+  cltt 3 2013/03/13 17:44:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 17:44:04;
+  ends 3 2013/03/13 17:54:04;
+  cltt 3 2013/03/13 17:44:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 17:44:04;
+  ends 3 2013/03/13 17:54:04;
+  cltt 3 2013/03/13 17:44:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 17:44:04;
+  ends 3 2013/03/13 17:54:04;
+  cltt 3 2013/03/13 17:44:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 17:44:04;
+  ends 3 2013/03/13 17:54:04;
+  cltt 3 2013/03/13 17:44:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 17:44:04;
+  ends 3 2013/03/13 17:54:04;
+  cltt 3 2013/03/13 17:44:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 17:46:05;
+  ends 3 2013/03/13 17:56:05;
+  cltt 3 2013/03/13 17:46:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.151 {
+  starts 3 2013/03/13 17:43:32;
+  ends 3 2013/03/13 17:48:04;
+  tstp 3 2013/03/13 17:48:04;
+  cltt 3 2013/03/13 17:43:32;
+  binding state free;
+  hardware ethernet 00:50:56:31:2b:d5;
+  uid "\001\000PV1+\325";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 17:49:03;
+  ends 3 2013/03/13 17:59:03;
+  cltt 3 2013/03/13 17:49:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 17:49:03;
+  ends 3 2013/03/13 17:59:03;
+  cltt 3 2013/03/13 17:49:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 17:49:03;
+  ends 3 2013/03/13 17:59:03;
+  cltt 3 2013/03/13 17:49:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 17:49:03;
+  ends 3 2013/03/13 17:59:03;
+  cltt 3 2013/03/13 17:49:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 17:49:03;
+  ends 3 2013/03/13 17:59:03;
+  cltt 3 2013/03/13 17:49:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 17:49:04;
+  ends 3 2013/03/13 17:59:04;
+  cltt 3 2013/03/13 17:49:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 17:49:04;
+  ends 3 2013/03/13 17:59:04;
+  cltt 3 2013/03/13 17:49:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 17:49:04;
+  ends 3 2013/03/13 17:59:04;
+  cltt 3 2013/03/13 17:49:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 17:49:04;
+  ends 3 2013/03/13 17:59:04;
+  cltt 3 2013/03/13 17:49:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 17:49:33;
+  ends 3 2013/03/13 17:59:33;
+  cltt 3 2013/03/13 17:49:33;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 17:51:05;
+  ends 3 2013/03/13 18:01:05;
+  cltt 3 2013/03/13 17:51:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 17:54:03;
+  ends 3 2013/03/13 18:04:03;
+  cltt 3 2013/03/13 17:54:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 17:54:03;
+  ends 3 2013/03/13 18:04:03;
+  cltt 3 2013/03/13 17:54:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 17:54:03;
+  ends 3 2013/03/13 18:04:03;
+  cltt 3 2013/03/13 17:54:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 17:54:04;
+  ends 3 2013/03/13 18:04:04;
+  cltt 3 2013/03/13 17:54:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 17:54:04;
+  ends 3 2013/03/13 18:04:04;
+  cltt 3 2013/03/13 17:54:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 17:54:04;
+  ends 3 2013/03/13 18:04:04;
+  cltt 3 2013/03/13 17:54:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 17:54:04;
+  ends 3 2013/03/13 18:04:04;
+  cltt 3 2013/03/13 17:54:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 17:54:04;
+  ends 3 2013/03/13 18:04:04;
+  cltt 3 2013/03/13 17:54:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 17:54:04;
+  ends 3 2013/03/13 18:04:04;
+  cltt 3 2013/03/13 17:54:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 17:54:33;
+  ends 3 2013/03/13 18:04:33;
+  cltt 3 2013/03/13 17:54:33;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 17:56:05;
+  ends 3 2013/03/13 18:06:05;
+  cltt 3 2013/03/13 17:56:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 17:59:04;
+  ends 3 2013/03/13 18:09:04;
+  cltt 3 2013/03/13 17:59:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 17:59:04;
+  ends 3 2013/03/13 18:09:04;
+  cltt 3 2013/03/13 17:59:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 17:59:04;
+  ends 3 2013/03/13 18:09:04;
+  cltt 3 2013/03/13 17:59:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 17:59:04;
+  ends 3 2013/03/13 18:09:04;
+  cltt 3 2013/03/13 17:59:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 17:59:04;
+  ends 3 2013/03/13 18:09:04;
+  cltt 3 2013/03/13 17:59:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 17:59:04;
+  ends 3 2013/03/13 18:09:04;
+  cltt 3 2013/03/13 17:59:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 17:59:04;
+  ends 3 2013/03/13 18:09:04;
+  cltt 3 2013/03/13 17:59:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 17:59:04;
+  ends 3 2013/03/13 18:09:04;
+  cltt 3 2013/03/13 17:59:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 17:59:04;
+  ends 3 2013/03/13 18:09:04;
+  cltt 3 2013/03/13 17:59:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 17:59:34;
+  ends 3 2013/03/13 18:09:34;
+  cltt 3 2013/03/13 17:59:34;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 18:01:05;
+  ends 3 2013/03/13 18:11:05;
+  cltt 3 2013/03/13 18:01:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 18:04:04;
+  ends 3 2013/03/13 18:14:04;
+  cltt 3 2013/03/13 18:04:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 18:04:04;
+  ends 3 2013/03/13 18:14:04;
+  cltt 3 2013/03/13 18:04:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 18:04:04;
+  ends 3 2013/03/13 18:14:04;
+  cltt 3 2013/03/13 18:04:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 18:04:04;
+  ends 3 2013/03/13 18:14:04;
+  cltt 3 2013/03/13 18:04:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 18:04:04;
+  ends 3 2013/03/13 18:14:04;
+  cltt 3 2013/03/13 18:04:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 18:04:04;
+  ends 3 2013/03/13 18:14:04;
+  cltt 3 2013/03/13 18:04:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 18:04:05;
+  ends 3 2013/03/13 18:14:05;
+  cltt 3 2013/03/13 18:04:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 18:04:05;
+  ends 3 2013/03/13 18:14:05;
+  cltt 3 2013/03/13 18:04:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 18:04:05;
+  ends 3 2013/03/13 18:14:05;
+  cltt 3 2013/03/13 18:04:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 18:04:34;
+  ends 3 2013/03/13 18:14:34;
+  cltt 3 2013/03/13 18:04:34;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 18:06:06;
+  ends 3 2013/03/13 18:16:06;
+  cltt 3 2013/03/13 18:06:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 18:09:04;
+  ends 3 2013/03/13 18:19:04;
+  cltt 3 2013/03/13 18:09:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 18:09:05;
+  ends 3 2013/03/13 18:19:05;
+  cltt 3 2013/03/13 18:09:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 18:09:05;
+  ends 3 2013/03/13 18:19:05;
+  cltt 3 2013/03/13 18:09:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 18:09:05;
+  ends 3 2013/03/13 18:19:05;
+  cltt 3 2013/03/13 18:09:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 18:09:05;
+  ends 3 2013/03/13 18:19:05;
+  cltt 3 2013/03/13 18:09:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 18:09:05;
+  ends 3 2013/03/13 18:19:05;
+  cltt 3 2013/03/13 18:09:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 18:09:05;
+  ends 3 2013/03/13 18:19:05;
+  cltt 3 2013/03/13 18:09:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 18:09:05;
+  ends 3 2013/03/13 18:19:05;
+  cltt 3 2013/03/13 18:09:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 18:09:34;
+  ends 3 2013/03/13 18:19:34;
+  cltt 3 2013/03/13 18:09:34;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 18:09:34;
+  ends 3 2013/03/13 18:19:34;
+  cltt 3 2013/03/13 18:09:34;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 18:11:07;
+  ends 3 2013/03/13 18:21:07;
+  cltt 3 2013/03/13 18:11:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 18:14:04;
+  ends 3 2013/03/13 18:24:04;
+  cltt 3 2013/03/13 18:14:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 18:14:05;
+  ends 3 2013/03/13 18:24:05;
+  cltt 3 2013/03/13 18:14:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 18:14:05;
+  ends 3 2013/03/13 18:24:05;
+  cltt 3 2013/03/13 18:14:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 18:14:05;
+  ends 3 2013/03/13 18:24:05;
+  cltt 3 2013/03/13 18:14:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 18:14:05;
+  ends 3 2013/03/13 18:24:05;
+  cltt 3 2013/03/13 18:14:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 18:14:05;
+  ends 3 2013/03/13 18:24:05;
+  cltt 3 2013/03/13 18:14:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 18:14:05;
+  ends 3 2013/03/13 18:24:05;
+  cltt 3 2013/03/13 18:14:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 18:14:35;
+  ends 3 2013/03/13 18:24:35;
+  cltt 3 2013/03/13 18:14:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 18:14:35;
+  ends 3 2013/03/13 18:24:35;
+  cltt 3 2013/03/13 18:14:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 18:14:35;
+  ends 3 2013/03/13 18:24:35;
+  cltt 3 2013/03/13 18:14:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 18:16:07;
+  ends 3 2013/03/13 18:26:07;
+  cltt 3 2013/03/13 18:16:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 18:19:05;
+  ends 3 2013/03/13 18:29:05;
+  cltt 3 2013/03/13 18:19:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 18:19:05;
+  ends 3 2013/03/13 18:29:05;
+  cltt 3 2013/03/13 18:19:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 18:19:05;
+  ends 3 2013/03/13 18:29:05;
+  cltt 3 2013/03/13 18:19:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 18:19:05;
+  ends 3 2013/03/13 18:29:05;
+  cltt 3 2013/03/13 18:19:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 18:19:05;
+  ends 3 2013/03/13 18:29:05;
+  cltt 3 2013/03/13 18:19:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 18:19:05;
+  ends 3 2013/03/13 18:29:05;
+  cltt 3 2013/03/13 18:19:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 18:19:05;
+  ends 3 2013/03/13 18:29:05;
+  cltt 3 2013/03/13 18:19:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 18:19:35;
+  ends 3 2013/03/13 18:29:35;
+  cltt 3 2013/03/13 18:19:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 18:19:35;
+  ends 3 2013/03/13 18:29:35;
+  cltt 3 2013/03/13 18:19:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 18:19:35;
+  ends 3 2013/03/13 18:29:35;
+  cltt 3 2013/03/13 18:19:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 18:21:07;
+  ends 3 2013/03/13 18:31:07;
+  cltt 3 2013/03/13 18:21:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.100 {
+  starts 3 2013/03/13 16:21:17;
+  ends 3 2013/03/13 18:21:17;
+  tstp 3 2013/03/13 18:21:17;
+  cltt 3 2013/03/13 16:21:17;
+  binding state free;
+  hardware ethernet 40:a6:d9:db:b0:29;
+  uid "\001@\246\331\333\260)";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 18:24:05;
+  ends 3 2013/03/13 18:34:05;
+  cltt 3 2013/03/13 18:24:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 18:24:05;
+  ends 3 2013/03/13 18:34:05;
+  cltt 3 2013/03/13 18:24:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 18:24:05;
+  ends 3 2013/03/13 18:34:05;
+  cltt 3 2013/03/13 18:24:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 18:24:05;
+  ends 3 2013/03/13 18:34:05;
+  cltt 3 2013/03/13 18:24:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 18:24:05;
+  ends 3 2013/03/13 18:34:05;
+  cltt 3 2013/03/13 18:24:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 18:24:05;
+  ends 3 2013/03/13 18:34:05;
+  cltt 3 2013/03/13 18:24:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 18:24:05;
+  ends 3 2013/03/13 18:34:05;
+  cltt 3 2013/03/13 18:24:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 18:24:35;
+  ends 3 2013/03/13 18:34:35;
+  cltt 3 2013/03/13 18:24:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 18:24:35;
+  ends 3 2013/03/13 18:34:35;
+  cltt 3 2013/03/13 18:24:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 18:24:35;
+  ends 3 2013/03/13 18:34:35;
+  cltt 3 2013/03/13 18:24:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 18:26:07;
+  ends 3 2013/03/13 18:36:07;
+  cltt 3 2013/03/13 18:26:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 18:29:05;
+  ends 3 2013/03/13 18:39:05;
+  cltt 3 2013/03/13 18:29:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 18:29:05;
+  ends 3 2013/03/13 18:39:05;
+  cltt 3 2013/03/13 18:29:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 18:29:05;
+  ends 3 2013/03/13 18:39:05;
+  cltt 3 2013/03/13 18:29:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 18:29:05;
+  ends 3 2013/03/13 18:39:05;
+  cltt 3 2013/03/13 18:29:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 18:29:05;
+  ends 3 2013/03/13 18:39:05;
+  cltt 3 2013/03/13 18:29:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 18:29:05;
+  ends 3 2013/03/13 18:39:05;
+  cltt 3 2013/03/13 18:29:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 18:29:05;
+  ends 3 2013/03/13 18:39:05;
+  cltt 3 2013/03/13 18:29:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 18:29:35;
+  ends 3 2013/03/13 18:39:35;
+  cltt 3 2013/03/13 18:29:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 18:29:35;
+  ends 3 2013/03/13 18:39:35;
+  cltt 3 2013/03/13 18:29:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 18:29:35;
+  ends 3 2013/03/13 18:39:35;
+  cltt 3 2013/03/13 18:29:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 18:31:08;
+  ends 3 2013/03/13 18:41:08;
+  cltt 3 2013/03/13 18:31:08;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 18:34:05;
+  ends 3 2013/03/13 18:44:05;
+  cltt 3 2013/03/13 18:34:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 18:34:05;
+  ends 3 2013/03/13 18:44:05;
+  cltt 3 2013/03/13 18:34:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 18:34:05;
+  ends 3 2013/03/13 18:44:05;
+  cltt 3 2013/03/13 18:34:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 18:34:05;
+  ends 3 2013/03/13 18:44:05;
+  cltt 3 2013/03/13 18:34:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 18:34:05;
+  ends 3 2013/03/13 18:44:05;
+  cltt 3 2013/03/13 18:34:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 18:34:06;
+  ends 3 2013/03/13 18:44:06;
+  cltt 3 2013/03/13 18:34:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 18:34:06;
+  ends 3 2013/03/13 18:44:06;
+  cltt 3 2013/03/13 18:34:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 18:34:35;
+  ends 3 2013/03/13 18:44:35;
+  cltt 3 2013/03/13 18:34:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 18:34:35;
+  ends 3 2013/03/13 18:44:35;
+  cltt 3 2013/03/13 18:34:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 18:34:35;
+  ends 3 2013/03/13 18:44:35;
+  cltt 3 2013/03/13 18:34:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 18:36:08;
+  ends 3 2013/03/13 18:46:08;
+  cltt 3 2013/03/13 18:36:08;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 18:39:05;
+  ends 3 2013/03/13 18:49:05;
+  cltt 3 2013/03/13 18:39:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 18:39:05;
+  ends 3 2013/03/13 18:49:05;
+  cltt 3 2013/03/13 18:39:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 18:39:05;
+  ends 3 2013/03/13 18:49:05;
+  cltt 3 2013/03/13 18:39:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 18:39:06;
+  ends 3 2013/03/13 18:49:06;
+  cltt 3 2013/03/13 18:39:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 18:39:06;
+  ends 3 2013/03/13 18:49:06;
+  cltt 3 2013/03/13 18:39:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 18:39:06;
+  ends 3 2013/03/13 18:49:06;
+  cltt 3 2013/03/13 18:39:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 18:39:06;
+  ends 3 2013/03/13 18:49:06;
+  cltt 3 2013/03/13 18:39:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 18:39:35;
+  ends 3 2013/03/13 18:49:35;
+  cltt 3 2013/03/13 18:39:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 18:39:35;
+  ends 3 2013/03/13 18:49:35;
+  cltt 3 2013/03/13 18:39:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 18:39:35;
+  ends 3 2013/03/13 18:49:35;
+  cltt 3 2013/03/13 18:39:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 18:41:07;
+  ends 3 2013/03/13 18:51:07;
+  cltt 3 2013/03/13 18:41:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 18:44:05;
+  ends 3 2013/03/13 18:54:05;
+  cltt 3 2013/03/13 18:44:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 18:44:06;
+  ends 3 2013/03/13 18:54:06;
+  cltt 3 2013/03/13 18:44:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 18:44:06;
+  ends 3 2013/03/13 18:54:06;
+  cltt 3 2013/03/13 18:44:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 18:44:06;
+  ends 3 2013/03/13 18:54:06;
+  cltt 3 2013/03/13 18:44:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 18:44:06;
+  ends 3 2013/03/13 18:54:06;
+  cltt 3 2013/03/13 18:44:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 18:44:06;
+  ends 3 2013/03/13 18:54:06;
+  cltt 3 2013/03/13 18:44:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 18:44:06;
+  ends 3 2013/03/13 18:54:06;
+  cltt 3 2013/03/13 18:44:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 18:44:35;
+  ends 3 2013/03/13 18:54:35;
+  cltt 3 2013/03/13 18:44:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 18:44:36;
+  ends 3 2013/03/13 18:54:36;
+  cltt 3 2013/03/13 18:44:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 18:44:36;
+  ends 3 2013/03/13 18:54:36;
+  cltt 3 2013/03/13 18:44:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 18:46:07;
+  ends 3 2013/03/13 18:56:07;
+  cltt 3 2013/03/13 18:46:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 18:49:06;
+  ends 3 2013/03/13 18:59:06;
+  cltt 3 2013/03/13 18:49:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 18:49:06;
+  ends 3 2013/03/13 18:59:06;
+  cltt 3 2013/03/13 18:49:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 18:49:06;
+  ends 3 2013/03/13 18:59:06;
+  cltt 3 2013/03/13 18:49:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 18:49:06;
+  ends 3 2013/03/13 18:59:06;
+  cltt 3 2013/03/13 18:49:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 18:49:06;
+  ends 3 2013/03/13 18:59:06;
+  cltt 3 2013/03/13 18:49:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 18:49:06;
+  ends 3 2013/03/13 18:59:06;
+  cltt 3 2013/03/13 18:49:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 18:49:06;
+  ends 3 2013/03/13 18:59:06;
+  cltt 3 2013/03/13 18:49:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 18:49:36;
+  ends 3 2013/03/13 18:59:36;
+  cltt 3 2013/03/13 18:49:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 18:49:36;
+  ends 3 2013/03/13 18:59:36;
+  cltt 3 2013/03/13 18:49:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 18:49:36;
+  ends 3 2013/03/13 18:59:36;
+  cltt 3 2013/03/13 18:49:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 18:51:07;
+  ends 3 2013/03/13 19:01:07;
+  cltt 3 2013/03/13 18:51:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 18:54:06;
+  ends 3 2013/03/13 19:04:06;
+  cltt 3 2013/03/13 18:54:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 18:54:06;
+  ends 3 2013/03/13 19:04:06;
+  cltt 3 2013/03/13 18:54:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 18:54:06;
+  ends 3 2013/03/13 19:04:06;
+  cltt 3 2013/03/13 18:54:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 18:54:06;
+  ends 3 2013/03/13 19:04:06;
+  cltt 3 2013/03/13 18:54:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 18:54:06;
+  ends 3 2013/03/13 19:04:06;
+  cltt 3 2013/03/13 18:54:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 18:54:06;
+  ends 3 2013/03/13 19:04:06;
+  cltt 3 2013/03/13 18:54:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 18:54:06;
+  ends 3 2013/03/13 19:04:06;
+  cltt 3 2013/03/13 18:54:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 18:54:36;
+  ends 3 2013/03/13 19:04:36;
+  cltt 3 2013/03/13 18:54:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 18:54:36;
+  ends 3 2013/03/13 19:04:36;
+  cltt 3 2013/03/13 18:54:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 18:54:36;
+  ends 3 2013/03/13 19:04:36;
+  cltt 3 2013/03/13 18:54:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 18:56:07;
+  ends 3 2013/03/13 19:06:07;
+  cltt 3 2013/03/13 18:56:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 18:59:06;
+  ends 3 2013/03/13 19:09:06;
+  cltt 3 2013/03/13 18:59:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 18:59:06;
+  ends 3 2013/03/13 19:09:06;
+  cltt 3 2013/03/13 18:59:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 18:59:06;
+  ends 3 2013/03/13 19:09:06;
+  cltt 3 2013/03/13 18:59:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 18:59:06;
+  ends 3 2013/03/13 19:09:06;
+  cltt 3 2013/03/13 18:59:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 18:59:06;
+  ends 3 2013/03/13 19:09:06;
+  cltt 3 2013/03/13 18:59:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 18:59:06;
+  ends 3 2013/03/13 19:09:06;
+  cltt 3 2013/03/13 18:59:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 18:59:06;
+  ends 3 2013/03/13 19:09:06;
+  cltt 3 2013/03/13 18:59:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 18:59:36;
+  ends 3 2013/03/13 19:09:36;
+  cltt 3 2013/03/13 18:59:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 18:59:36;
+  ends 3 2013/03/13 19:09:36;
+  cltt 3 2013/03/13 18:59:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 18:59:36;
+  ends 3 2013/03/13 19:09:36;
+  cltt 3 2013/03/13 18:59:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 19:01:08;
+  ends 3 2013/03/13 19:11:08;
+  cltt 3 2013/03/13 19:01:08;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 19:04:06;
+  ends 3 2013/03/13 19:14:06;
+  cltt 3 2013/03/13 19:04:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 19:04:06;
+  ends 3 2013/03/13 19:14:06;
+  cltt 3 2013/03/13 19:04:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 19:04:06;
+  ends 3 2013/03/13 19:14:06;
+  cltt 3 2013/03/13 19:04:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 19:04:06;
+  ends 3 2013/03/13 19:14:06;
+  cltt 3 2013/03/13 19:04:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 19:04:06;
+  ends 3 2013/03/13 19:14:06;
+  cltt 3 2013/03/13 19:04:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 19:04:06;
+  ends 3 2013/03/13 19:14:06;
+  cltt 3 2013/03/13 19:04:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 19:04:06;
+  ends 3 2013/03/13 19:14:06;
+  cltt 3 2013/03/13 19:04:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 19:04:36;
+  ends 3 2013/03/13 19:14:36;
+  cltt 3 2013/03/13 19:04:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 19:04:36;
+  ends 3 2013/03/13 19:14:36;
+  cltt 3 2013/03/13 19:04:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 19:04:36;
+  ends 3 2013/03/13 19:14:36;
+  cltt 3 2013/03/13 19:04:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 19:06:08;
+  ends 3 2013/03/13 19:16:08;
+  cltt 3 2013/03/13 19:06:08;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
+lease 192.168.76.157 {
+  starts 3 2013/03/13 19:09:06;
+  ends 3 2013/03/13 19:19:06;
+  cltt 3 2013/03/13 19:09:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\003\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.153 {
+  starts 3 2013/03/13 19:09:06;
+  ends 3 2013/03/13 19:19:06;
+  cltt 3 2013/03/13 19:09:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\000\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.154 {
+  starts 3 2013/03/13 19:09:06;
+  ends 3 2013/03/13 19:19:06;
+  cltt 3 2013/03/13 19:09:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\001\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.155 {
+  starts 3 2013/03/13 19:09:06;
+  ends 3 2013/03/13 19:19:06;
+  cltt 3 2013/03/13 19:09:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\002\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.158 {
+  starts 3 2013/03/13 19:09:06;
+  ends 3 2013/03/13 19:19:06;
+  cltt 3 2013/03/13 19:09:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\004\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.159 {
+  starts 3 2013/03/13 19:09:06;
+  ends 3 2013/03/13 19:19:06;
+  cltt 3 2013/03/13 19:09:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\005\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.161 {
+  starts 3 2013/03/13 19:09:06;
+  ends 3 2013/03/13 19:19:06;
+  cltt 3 2013/03/13 19:09:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\007\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.162 {
+  starts 3 2013/03/13 19:09:36;
+  ends 3 2013/03/13 19:19:36;
+  cltt 3 2013/03/13 19:09:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\010\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.163 {
+  starts 3 2013/03/13 19:09:36;
+  ends 3 2013/03/13 19:19:36;
+  cltt 3 2013/03/13 19:09:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\011\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.160 {
+  starts 3 2013/03/13 19:09:36;
+  ends 3 2013/03/13 19:19:36;
+  cltt 3 2013/03/13 19:09:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:15:5d:4c:0a:01;
+  uid "\001RAS \000\025]L\012\001\000\000\006\000\000\000";
+  client-hostname "MCP";
+}
+lease 192.168.76.164 {
+  starts 3 2013/03/13 19:11:08;
+  ends 3 2013/03/13 19:21:08;
+  cltt 3 2013/03/13 19:11:08;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:a9:82:48:47:28;
+  uid "\001\214\251\202HG(";
+  client-hostname "Six";
+}
