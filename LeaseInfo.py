@@ -22,6 +22,10 @@ def parse(fileName):
         # mac
         if(line.find("hardware ethernet") > -1):
             thisMAC = line[line.find("ethernet") +9 : line.find(";")]
+        
+        # uid - will be replaced with name if it exists
+        if(line.find("uid") > -1):
+            thisName = line[line.find("uid") +5 : line.find(";") -1]
             
         # hostname
         if(line.find("client-hostname") > -1):
