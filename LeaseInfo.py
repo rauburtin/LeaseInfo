@@ -1,5 +1,11 @@
 #!/usr/bin/python3
 
+def split_ip(ip):
+    return tuple(int(part) for part in ip.split('.'))
+
+def ip_key(item):
+    return split_ip(item[0])
+
 def parse(fileName):
 
     f = open( fileName, "r" )
@@ -36,7 +42,7 @@ def parse(fileName):
         output[thisIp] = thisIp + " " + thisMAC + " " + thisName
 
     #print output
-    for k, v in sorted(output.items()):
+    for k, v in sorted(output.items(), key=ip_key):
         print(v)
 
     # Close the file
