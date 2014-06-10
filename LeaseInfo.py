@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python
 
 def split_ip(ip):
     return tuple(int(part) for part in ip.split('.'))
