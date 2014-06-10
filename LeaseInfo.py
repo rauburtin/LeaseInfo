@@ -21,7 +21,7 @@ def parse(instream):
         # ip
         if (line.find("lease") == 0):
             if (thisIp != ""):
-                output[thisIp] = thisIp + " " + thisMAC + " " + thisName
+                output[thisIp] = (thisMAC, thisName)
                 thisMAC = ""
                 thisName = ""
 
@@ -41,7 +41,7 @@ def parse(instream):
 
     #final line
     if (thisIp != ""):
-        output[thisIp] = thisIp + " " + thisMAC + " " + thisName
+        output[thisIp] = (thisMAC, thisName)
 
     return output
 
@@ -51,5 +51,5 @@ if __name__ == '__main__':
     with open("/var/lib/dhcp/dhcpd.leases") as f:
         output = parse(f)
         #print output
-        for k, v in sorted(output.items(), key=ip_key):
-            print(v)
+        for ip, v in sorted(output.items(), key=ip_key):
+            print(ip + " " + v[0] + " " + v[1])
