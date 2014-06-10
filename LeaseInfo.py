@@ -1,10 +1,13 @@
 #!/usr/bin/env python
 
+
 def split_ip(ip):
     return tuple(int(part) for part in ip.split('.'))
 
+
 def ip_key(item):
     return split_ip(item[0])
+
 
 def parse(instream):
 
@@ -22,19 +25,19 @@ def parse(instream):
                 thisMAC = ""
                 thisName = ""
 
-            thisIp = line[line.find(" ") +1 : line.find("{") -1]
+            thisIp = line[line.find(" ") + 1:line.find("{") - 1]
 
         # mac
         if(line.find("hardware ethernet") > -1):
-            thisMAC = line[line.find("ethernet") +9 : line.find(";")]
+            thisMAC = line[line.find("ethernet") + 9:line.find(";")]
 
         # uid - will be replaced with name if it exists
         if(line.find("uid") > -1):
-            thisName = line[line.find("uid") +5 : line.find(";") -1]
+            thisName = line[line.find("uid") + 5:line.find(";") - 1]
 
         # hostname
         if(line.find("client-hostname") > -1):
-            thisName = line[line.find("hostname") +10 : line.find(";") -1]
+            thisName = line[line.find("hostname") + 10:line.find(";") - 1]
 
     #final line
     if (thisIp != ""):
