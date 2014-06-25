@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-from setuptools import setup, find_packages
+from setuptools import setup
 import os
 
 _dirname = os.path.abspath(os.path.dirname(__file__))
@@ -20,7 +20,7 @@ setup(name='py-lease-file-parser',
     url='https://github.com/jm1024/LeaseInfo',
     author='jm1024',
     author_email='info@vxk.cz',
-    packages=find_packages(),
+    py_modules=['LeaseInfo'],
     install_requires=[],
     keywords="isc linux dhcpd lease parse",
     include_package_data=True,
